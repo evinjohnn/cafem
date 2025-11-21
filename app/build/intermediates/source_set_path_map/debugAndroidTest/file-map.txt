@@ -1,0 +1,4 @@
+com.cafetone.app.test.app-androidTest-0 /Users/evin/StudioProjects/cafem/app/build/generated/res/resValues/androidTest/debug
+com.cafetone.app.test.app-mergeDebugAndroidTestResources-1 /Users/evin/StudioProjects/cafem/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.cafetone.app.test.app-mergeDebugAndroidTestResources-2 /Users/evin/StudioProjects/cafem/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.cafetone.app.test.app-merged_res-3 /Users/evin/StudioProjects/cafem/app/build/intermediates/merged_res/debugAndroidTest

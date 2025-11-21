@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="active_green">#4CAF50</color>
+    <color name="inactive_red">#D32F2F</color>
+    <color name="oled_black">#050505</color>
+    <color name="sony_copper">#B87333</color>
+    <color name="sony_gold">#D4AF37</color>
+    <color name="sony_gold_dim">#8A7122</color>
+    <color name="surface_dark_grey">#1E1E1E</color>
+    <color name="surface_light_grey">#2C2C2C</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0A0</color>
+    <string name="app_name">CaféTone</string>
+    <string name="btn_power">Power</string>
+    <string name="label_ambience">Ambience</string>
+    <string name="label_soundstage">Soundstage</string>
+    <string name="notification_channel_name">Audio Engine</string>
+    <string name="notification_desc">Enhancing your audio stream.</string>
+    <string name="notification_title">CaféTone is Running</string>
+    <string name="permission_rationale">CaféTone needs notification permissions to keep the audio engine alive.</string>
+    <string name="status_active">Engine Active</string>
+    <string name="status_waiting">Waiting for Audio...</string>
+    <style name="Base.Theme.CafeTone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sony_gold</item>
+        <item name="colorPrimaryVariant">@color/sony_gold_dim</item>
+        <item name="colorOnPrimary">@color/oled_black</item>
+        <item name="android:statusBarColor">@color/oled_black</item>
+        <item name="android:windowBackground">@color/oled_black</item>
+    </style>
+    <style name="Theme.CafeTone" parent="Base.Theme.CafeTone"/>
+</resources>

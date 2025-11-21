@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_slider_track.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/slider_track.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_custom_seekbar.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/custom_seekbar.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_ic_power.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/ic_power.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cafetone.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.cafetone.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_ic_cafe.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/ic_cafe.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_bg_gradient.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_slider_thumb.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/slider_thumb.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/drawable_bg_card.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/evin/.gradle/daemon/8.2/com.cafetone.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
