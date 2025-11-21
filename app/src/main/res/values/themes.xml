@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CafeTone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sony_gold</item>
+        <item name="colorPrimaryVariant">@color/sony_gold_dim</item>
+        <item name="colorOnPrimary">@color/oled_black</item>
+        <item name="android:statusBarColor">@color/oled_black</item>
+        <item name="android:windowBackground">@color/oled_black</item>
+    </style>
+
+    <style name="Theme.CafeTone" parent="Base.Theme.CafeTone" />
+</resources>
+

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CaféTone</string>
+    <string name="status_active">Engine Active</string>
+    <string name="status_waiting">Waiting for Audio...</string>
+    <string name="label_soundstage">Soundstage</string>
+    <string name="label_ambience">Ambience</string>
+    <string name="btn_power">Power</string>
+    <string name="notification_channel_name">Audio Engine</string>
+    <string name="notification_title">CaféTone is Running</string>
+    <string name="notification_desc">Enhancing your audio stream.</string>
+    <string name="permission_rationale">CaféTone needs notification permissions to keep the audio engine alive.</string>
+</resources>
+

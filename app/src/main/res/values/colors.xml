@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="oled_black">#050505</color>
+    <color name="surface_dark_grey">#1E1E1E</color>
+    <color name="surface_light_grey">#2C2C2C</color>
+
+    <!-- Accents -->
+    <color name="sony_gold">#D4AF37</color>
+    <color name="sony_gold_dim">#8A7122</color>
+    <color name="sony_copper">#B87333</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0A0</color>
+    
+    <!-- Functional -->
+    <color name="active_green">#4CAF50</color>
+    <color name="inactive_red">#D32F2F</color>
+</resources>
+
