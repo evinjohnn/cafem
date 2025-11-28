@@ -35,22 +35,22 @@
 21    </queries>
 22
 23    <permission
-23-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+23-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 24        android:name="com.cafetone.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-24-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+24-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
 25        android:protectionLevel="signature" />
-25-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+25-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
 26
 27    <uses-permission android:name="com.cafetone.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-27-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
-27-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+27-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+27-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 28
 29    <application
 29-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:17:5-55:19
 30        android:allowBackup="true"
 30-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:18:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/transforms-3/3e209530d52db8edab343d2f85fec4ea/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+31-->[androidx.core:core:1.12.0] /Users/evin/.gradle/caches/8.9/transforms/4427ea441abf7f7d0532b32b467014c1/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 32        android:dataExtractionRules="@xml/data_extraction_rules"
 32-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:19:9-65
 33        android:debuggable="true"
@@ -65,126 +65,138 @@
 38-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:23:9-54
 39        android:supportsRtl="true"
 39-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:24:9-35
-40        android:testOnly="true"
-41        android:theme="@style/Theme.CafeTone" >
-41-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:25:9-46
-42        <activity
-42-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:28:9-37:20
-43            android:name="com.cafetone.app.MainActivity"
-43-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:29:13-41
-44            android:exported="true"
-44-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:30:13-36
-45            android:screenOrientation="portrait"
-45-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:31:13-49
-46            android:theme="@style/Theme.CafeTone" >
-46-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:32:13-50
-47            <intent-filter>
-47-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:33:13-36:29
-48                <action android:name="android.intent.action.MAIN" />
-48-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:34:17-69
-48-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:34:25-66
-49
-50                <category android:name="android.intent.category.LAUNCHER" />
-50-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:35:17-77
-50-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:35:27-74
-51            </intent-filter>
-52        </activity>
-53
-54        <service
-54-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:39:9-43:61
-55            android:name="com.cafetone.app.service.AudioEngineService"
-55-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:40:13-55
-56            android:enabled="true"
-56-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:41:13-35
-57            android:exported="false"
-57-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:42:13-37
-58            android:foregroundServiceType="mediaPlayback" />
-58-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:43:13-58
-59
-60        <receiver
-60-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:45:9-53:20
-61            android:name="com.cafetone.app.receiver.AudioSessionReceiver"
-61-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:46:13-58
-62            android:exported="true"
-62-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:47:13-36
-63            android:priority="1000" >
-63-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:48:13-36
-64            <intent-filter>
-64-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:49:13-52:29
-65                <action android:name="android.media.action.OPEN_AUDIO_EFFECT_CONTROL_SESSION" />
-65-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:13:13-93
-65-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:13:21-90
-66                <action android:name="android.media.action.CLOSE_AUDIO_EFFECT_CONTROL_SESSION" />
-66-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:51:17-98
-66-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:51:25-95
-67            </intent-filter>
-68        </receiver>
-69
-70        <provider
-70-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-71            android:name="androidx.startup.InitializationProvider"
-71-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-72            android:authorities="com.cafetone.app.androidx-startup"
-72-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
-73            android:exported="false" >
-73-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
-74            <meta-data
-74-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-75-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
-76                android:value="androidx.startup" />
-76-->[androidx.emoji2:emoji2:1.2.0] /Users/evin/.gradle/caches/transforms-3/8b07d8a139ca4e1ca02018bc6fa6e8d7/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
-77            <meta-data
-77-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/transforms-3/88ab3bd00ba3ae83529f1871643695ed/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
-78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-78-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/transforms-3/88ab3bd00ba3ae83529f1871643695ed/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
-79                android:value="androidx.startup" />
-79-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/transforms-3/88ab3bd00ba3ae83529f1871643695ed/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+40        android:theme="@style/Theme.CafeTone" >
+40-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:25:9-46
+41        <activity
+41-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:28:9-37:20
+42            android:name="com.cafetone.app.MainActivity"
+42-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:29:13-41
+43            android:exported="true"
+43-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:30:13-36
+44            android:screenOrientation="portrait"
+44-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:31:13-49
+45            android:theme="@style/Theme.CafeTone" >
+45-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:32:13-50
+46            <intent-filter>
+46-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:33:13-36:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:34:17-69
+47-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:34:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:35:17-77
+49-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:35:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <service
+53-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:39:9-43:61
+54            android:name="com.cafetone.app.service.AudioEngineService"
+54-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:40:13-55
+55            android:enabled="true"
+55-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:41:13-35
+56            android:exported="false"
+56-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:42:13-37
+57            android:foregroundServiceType="mediaPlayback" />
+57-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:43:13-58
+58
+59        <receiver
+59-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:45:9-53:20
+60            android:name="com.cafetone.app.receiver.AudioSessionReceiver"
+60-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:46:13-58
+61            android:exported="true"
+61-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:47:13-36
+62            android:priority="1000" >
+62-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:48:13-36
+63            <intent-filter>
+63-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:49:13-52:29
+64                <action android:name="android.media.action.OPEN_AUDIO_EFFECT_CONTROL_SESSION" />
+64-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:13:13-93
+64-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:13:21-90
+65                <action android:name="android.media.action.CLOSE_AUDIO_EFFECT_CONTROL_SESSION" />
+65-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:51:17-98
+65-->/Users/evin/StudioProjects/cafem/app/src/main/AndroidManifest.xml:51:25-95
+66            </intent-filter>
+67        </receiver>
+68
+69        <activity
+69-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/7432e5987de6cc83486dfc919f8aff37/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+70            android:name="androidx.compose.ui.tooling.PreviewActivity"
+70-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/7432e5987de6cc83486dfc919f8aff37/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+71            android:exported="true" />
+71-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/7432e5987de6cc83486dfc919f8aff37/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+72        <activity
+72-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/49d8049f10655998454722e65bfca5d0/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
+73            android:name="androidx.activity.ComponentActivity"
+73-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/49d8049f10655998454722e65bfca5d0/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
+74            android:exported="true" />
+74-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/evin/.gradle/caches/8.9/transforms/49d8049f10655998454722e65bfca5d0/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+75
+76        <provider
+76-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+77            android:name="androidx.startup.InitializationProvider"
+77-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
+78            android:authorities="com.cafetone.app.androidx-startup"
+78-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
+79            android:exported="false" >
+79-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
 80            <meta-data
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+80-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+81-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
 82                android:value="androidx.startup" />
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-83        </provider>
-84
-85        <receiver
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-87            android:directBootAware="false"
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-88            android:enabled="true"
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-89            android:exported="true"
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-90            android:permission="android.permission.DUMP" >
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-91            <intent-filter>
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-93            </intent-filter>
-94            <intent-filter>
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-96            </intent-filter>
+82-->[androidx.emoji2:emoji2:1.4.0] /Users/evin/.gradle/caches/8.9/transforms/8c98dce926c39d35fe27003fae0691a4/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
+83            <meta-data
+83-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/8.9/transforms/31d401edce0ab5f37329411ac5c4b1eb/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+84-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/8.9/transforms/31d401edce0ab5f37329411ac5c4b1eb/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+85                android:value="androidx.startup" />
+85-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/evin/.gradle/caches/8.9/transforms/31d401edce0ab5f37329411ac5c4b1eb/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+88                android:value="androidx.startup" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+89        </provider>
+90
+91        <receiver
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+92            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+93            android:directBootAware="false"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+94            android:enabled="true"
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+95            android:exported="true"
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+96            android:permission="android.permission.DUMP" >
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 97            <intent-filter>
-97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+98                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 99            </intent-filter>
 100            <intent-filter>
-100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/transforms-3/f012ae4b402e452df611855c3b324058/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+101                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 102            </intent-filter>
-103        </receiver>
-104    </application>
-105
-106</manifest>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+104                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+107                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/evin/.gradle/caches/8.9/transforms/7bb541e89a8ec9179225e79c20f29722/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+108            </intent-filter>
+109        </receiver>
+110    </application>
+111
+112</manifest>

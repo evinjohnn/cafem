@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.cafetone.app-mergeDebugResources-30:/values-port/values-port.xml",
+            "outputFile": "com.cafetone.app-mergeDebugResources-56:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/evin/.gradle/caches/transforms-3/5e24c99d0ff19c5012cd00105eca8063/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "source": "/Users/evin/.gradle/caches/8.9/transforms/b9398e298918d45ceed86aa123815a76/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
